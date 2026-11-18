@@ -6,6 +6,7 @@
 
 <h2>About me</h2>
 <p>• FullStack Software Developer</p>
+<p>• Currently working on a intuitive Budget Tracker Web App using .NET, SQL, JS, Entity Framework, Bootstrap, HTML, and CSS. First Release: Friday, 20th.  </p>
 <p>• Studying Web Development at FAETEC, and coming from a background in Fashion Design and Customer Experience, I approach software development with a strong focus on usability, system architecture, and clear cross-functional communication.</p>
 <p>• My hobbies are discovering new secondhand shops, trying pastry recipes and watching old movies</p>
 <p>• Fun Fact: I won a national contest to design Tshirts for Rock in Rio 2019!</p>
