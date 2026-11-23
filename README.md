@@ -22,4 +22,4 @@
 </div>
 
 ### Let's connect and have a chat!
-<img width="350" height="250" alt="cat-computer" src="https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif" />
+<img width="320" height="180" alt="cat-computer" src="https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif" />
