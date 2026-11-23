@@ -7,8 +7,6 @@
 <p>• Fun Fact: I won a national contest to design Tshirts for Rock in Rio 2019!</p>
 <br>
 <p>• Currently working on a intuitive Budget Tracker Web App. First Release now live!</p>
-<br>
-<br>
 
 ### Tech Stack
 <div align="left">
@@ -23,8 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="30" height="30"/>      
 </div>
-<br>
-<br>
 
 ### Let's connect and have a chat!
 <img width="250" height="150" alt="cat-computer" src="https://media.tenor.com/bCfpwMjfAi0AAAAM/cat-typing.gif" />
